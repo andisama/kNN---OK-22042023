@@ -1,5 +1,3 @@
-# *****************************************************************************************************
-#
 # Case base reasoning with kNN (classifier)
 #
 # Library: 
@@ -18,5 +16,4 @@
 # Institution: Binus University
 # Subject: ISYS90219045 Advanced Knowledge System
 # Lecturer: Benfano Soewito, M.Sc., Ph.D.
-#
-# *****************************************************************************************************
+
